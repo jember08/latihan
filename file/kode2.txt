@@ -1,0 +1,2 @@
+ini adalah data dari output.txt
+hai
